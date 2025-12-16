@@ -2,7 +2,7 @@
 
 An eagle in flight, inspired by Isaiah 40:31 "...they shall mount up with wings as eagles..."
 
-<img style="display: block; margin: auto;" alt="photo" src="images/basic_shape.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/head_and_tail.png" width=200>
 
 
 
