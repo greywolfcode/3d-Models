@@ -1,5 +1,13 @@
 # Journal
 
+## 12/16/25 - 34
+
+I removed the sphere for the head and attempted to shape a new one. It looks alright, but it will likely need some more work later. I spent an lot of time trying to get the shape right with different curves and fillets, and the shape is not bad, and the beak looks pretty good (although maybe a little to parrot-like?), but it isn't tied into the wings perfectly. Might need to remove the half sphere and shorten the body a bit.
+
+Also I reached the 2-hour mark exactly.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/headv1.png" width=200>
+
 ## 12/16/25 - 29
 
 Shaped the wings to have proper curves and be much thinner, and then shaped the tail to be thinner and have a slight curve. I started trying to shape the head and body to fit the wings, but they still need some work. The spherical head might need to be swapped out. At the moment it does look a little like an airplane, but hopefully feathers will fix that in the future.
