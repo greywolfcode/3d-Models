@@ -1,5 +1,11 @@
 # Journal
 
+## 12/17/25 - 39
+
+I started trying to feather the wings. I struggled a lot trying to make the feathers fit around the curved ends of the wings, although I eventually got the wrap tool to work it is not perfect. I like the overlapping pattern for the feathers, but the wings might need to be flattened as the curves are just hard to work with. I used an image from https://www.pinterest.com/pin/778137641876483864/ as reference for feathers.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/headv1.png" width=200>
+
 ## 12/16/25 - 34
 
 I removed the sphere for the head and attempted to shape a new one. It looks alright, but it will likely need some more work later. I spent an lot of time trying to get the shape right with different curves and fillets, and the shape is not bad, and the beak looks pretty good (although maybe a little to parrot-like?), but it isn't tied into the wings perfectly. Might need to remove the half sphere and shorten the body a bit.
