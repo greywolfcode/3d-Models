@@ -1,10 +1,17 @@
 # Journal
 
+## 12/18/25 - 74
+
+I completely redid the wings. They are now thinner and are fully feathered. Unfortunately, I had previously made the tail dependent on the wings, so removing the old wings forced me to remove the tail as well. I attached a quick placeholder so I could see how the wings and tail looked together. I tried to used linear patterns where I could, but all the curved sections I had to feather by hand.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/wingsv2.png" width=200>
+
+
 ## 12/17/25 - 39
 
 I started trying to feather the wings. I struggled a lot trying to make the feathers fit around the curved ends of the wings, although I eventually got the wrap tool to work it is not perfect. I like the overlapping pattern for the feathers, but the wings might need to be flattened as the curves are just hard to work with. I used an image from https://www.pinterest.com/pin/778137641876483864/ as reference for feathers.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/headv1.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/feathersv1.png" width=200>
 
 ## 12/16/25 - 34
 
