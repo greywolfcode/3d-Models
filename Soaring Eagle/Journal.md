@@ -1,11 +1,16 @@
 # Journal
 
+## 12/19/25 - 28
+
+I added feathers to the tail, and smoothed out the body to wings transition. I maybe like fillets a bit too much. Also, I added some colour based on the Eastern Imperial Eagle.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/tail_and_colour_v1.png" width=200>
+
 ## 12/18/25 - 74
 
 I completely redid the wings. They are now thinner and are fully feathered. Unfortunately, I had previously made the tail dependent on the wings, so removing the old wings forced me to remove the tail as well. I attached a quick placeholder so I could see how the wings and tail looked together. I tried to used linear patterns where I could, but all the curved sections I had to feather by hand.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/wingsv2.png" width=200>
-
 
 ## 12/17/25 - 39
 
