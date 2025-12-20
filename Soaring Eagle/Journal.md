@@ -1,5 +1,11 @@
 # Journal
 
+## 12/19/25 - 36
+
+Added four more rows of feathers. I am getting faster at feathering, probably due to smaller feathers and area, and a better rhythm.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/more_feathers.png" width=200>
+
 ## 12/19/25 - 23
 
 Created a basic stand for the Eagle with the inspiring reference on it. The concave sides might need to be removed for printing purposes, but they are there to make the stand less distracting from the bird.
