@@ -1,5 +1,11 @@
 # Journal
 
+## 12/20/25 - 17
+
+Finished designing the stand, moved the verse label to an angled piece at the bottom.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/stand.png" width=200>
+
 ## 12/20/25 - 24
 
 Finished feathering the wings, the wings are now done.
