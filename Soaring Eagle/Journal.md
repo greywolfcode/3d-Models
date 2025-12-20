@@ -10,7 +10,7 @@ Finished designing the stand, moved the verse label to an angled piece at the bo
 
 Finished feathering the wings, the wings are now done.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/wings_Done.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/wings_done.png" width=200>
 
 ## 12/19/25 - 36
 
