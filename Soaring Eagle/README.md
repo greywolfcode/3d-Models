@@ -2,9 +2,9 @@
 
 An eagle in flight, inspired by Isaiah 40:31 "...they shall mount up with wings as eagles..."
 
-<img style="display: block; margin: auto;" alt="photo" src="images/wings_done.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/bird_and_stand_final.png" width=200>
 
-
+Printables: https://www.printables.com/model/1522672-soaring-eagle
 
 ## Notes
 
