@@ -1,5 +1,11 @@
 # Journal
 
+## 12/20/25 - 24
+
+Finished feathering the wings, the wings are now done.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/wings_Done.png" width=200>
+
 ## 12/19/25 - 36
 
 Added four more rows of feathers. I am getting faster at feathering, probably due to smaller feathers and area, and a better rhythm.
