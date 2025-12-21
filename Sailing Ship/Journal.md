@@ -1,5 +1,11 @@
 # Journal
 
+## 12/21/25 - 36
+
+Added the bowsprit (front sail) and the forestay and backstay. It is attached by slotting into the bow post and sitting on top of the masts. It is another part where there could be support problems, but the sail attachments make attaching to the masts difficult. I spent some time trying to fit a sail at the back of the ship similar to the bowsprit at the back of the ship, but with only two big sails, it didn't really fit with the rest of the model.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/bowsprit.png" width=200>
+
 ## 12/21/25 - 38
 
 I added the rudder, keel, and bow post to the ship, as well as adding some sloped railing sections and rounding the bottom of the ship. This does unfortunately add overhangs, but i kept the keel very thin and made the railings a solid piece to reduce them as much as possible.
