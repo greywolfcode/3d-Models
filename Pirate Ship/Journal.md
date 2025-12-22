@@ -4,6 +4,7 @@
 
 Added a flag on the stern with a skull and crossbones on it. Spent most of my time trying to shape the skull and crossbones to fit on the flag and actually look proper. I made it to big the first time and had to try to shrink it to fit on the flag. The flag is slightly off centre to allow the rigging to touch the rail, but it is close enough to not look off.
 
+Also I  renamed the repository from "Sailing Ship" to "Pirate Ship"
 
 <img style="display: block; margin: auto;" alt="photo" src="images/Sternflag.png" width=200>
 
