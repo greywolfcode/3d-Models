@@ -1,5 +1,12 @@
 # Journal
 
+## 12/22/25 - 26
+
+Thickened the backstay and added a sail on the stern side, as well as adding grating where a hatch to the lower decks could be and the ship's wheel. The wheel is in two parts, the stand and the wheel, as it would take more supports if it was directly attached to the ship. I also added colour to the model.
+Also I  renamed the repository from "Sailing Ship" to "Pirate Ship"
+
+<img style="display: block; margin: auto;" alt="photo" src="images/wheel.png" width=200>
+
 ## 12/22/25 - 49
 
 Added a flag on the stern with a skull and crossbones on it. Spent most of my time trying to shape the skull and crossbones to fit on the flag and actually look proper. I made it to big the first time and had to try to shrink it to fit on the flag. The flag is slightly off centre to allow the rigging to touch the rail, but it is close enough to not look off.
