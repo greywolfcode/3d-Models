@@ -2,7 +2,7 @@
 
 A large sailing vessel.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/bowsprit.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/full_ship_1.png" width=200>
 
 
 ## License
