@@ -1,6 +1,6 @@
 # Soaring Eagle
 
-A large sailing vessel.
+A large pirate vessel.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/full_ship_1.png" width=200>
 
