@@ -1,5 +1,11 @@
 # Journal
 
+## 12/23/25 - 37
+
+I split the Bowsprit into two parts, with the backstay and back sail in one part and forestay and front sail in another. This will hopefully make printing easier. I also added a crows nest and 2nd skull and crossbones flags, as the masts were looking a little bare.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/flag_and_crows_nest.png" width=200>
+
 ## 12/22/25 - 26
 
 Thickened the backstay and added a sail on the stern side, as well as adding grating where a hatch to the lower decks could be and the ship's wheel. The wheel is in two parts, the stand and the wheel, as it would take more supports if it was directly attached to the ship. I also added colour to the model.
