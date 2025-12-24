@@ -1,5 +1,10 @@
 # Journal
 
+## 12/24/25 - 10
+
+I added a plank to the Pirate ship. I first made it attach to a hole under the railing, but after I made it realised that it wouldn't need supports if I used a hole into the deck. The hole has the 0.1 mm tolerances as the other openings. I also added the 0.1 mm tolerance to the ship's wheel.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/plank.png" width=200>
 ## 12/24/25 - 41
 
 I added tolerances to the parts that must fit together, and added cannons. I previously had made all the inserted parts a perfect fit, but as this needs to be 3d printable, I increased the slots by 0.1mm. I then added cannons in the bow of the ship. The cannons' bases are part of the ship model, but the cannons themselves are separate parts as they would be huge overhangs if they were attached, and also as I could colour the entire part instead of having to select individual faces
