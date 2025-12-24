@@ -1,5 +1,11 @@
 # Journal
 
+## 12/24/25 - 41
+
+I added tolerances to the parts that must fit together, and added cannons. I previously had made all the inserted parts a perfect fit, but as this needs to be 3d printable, I increased the slots by 0.1mm. I then added cannons in the bow of the ship. The cannons' bases are part of the ship model, but the cannons themselves are separate parts as they would be huge overhangs if they were attached, and also as I could colour the entire part instead of having to select individual faces
+
+<img style="display: block; margin: auto;" alt="photo" src="images/cannons.png" width=200>
+
 ## 12/23/25 - 37
 
 I split the Bowsprit into two parts, with the backstay and back sail in one part and forestay and front sail in another. This will hopefully make printing easier. I also added a crows nest and 2nd skull and crossbones flags, as the masts were looking a little bare.

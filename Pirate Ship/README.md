@@ -2,7 +2,7 @@
 
 A large pirate vessel.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/flag_and_crows_nest.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/cannons.png" width=200>
 
 
 ## License
