@@ -5,7 +5,7 @@ Programmer's best friend.
 <<<<<<< HEAD
 <img style="display: block; margin: auto;" alt="photo" src="images/new_tail.png" width=200>
 =======
-<img style="display: block; margin: auto;" alt="photo" src="images/head_connection.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/new_tail.png" width=200>
 >>>>>>> 41dffc7ed75e7db823613eac35dbce46f32071b7
 
 
