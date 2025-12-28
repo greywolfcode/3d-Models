@@ -2,7 +2,11 @@
 
 Programmer's best friend.
 
+<<<<<<< HEAD
 <img style="display: block; margin: auto;" alt="photo" src="images/new_tail.png" width=200>
+=======
+<img style="display: block; margin: auto;" alt="photo" src="images/head_connection.png" width=200>
+>>>>>>> 41dffc7ed75e7db823613eac35dbce46f32071b7
 
 
 ## License
@@ -16,3 +20,4 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
