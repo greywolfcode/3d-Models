@@ -1,5 +1,11 @@
 # Journal
 
+## 12/28/25 - 38
+
+I completely removed my previous tail design, and started over. It was just too messy to try to use the previous one. The new tail uses a similar 1mm symmetric curved base, but I used a loft on a spline to add the curve, which is much better. It should be much easier to work with.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/new_tail.png" width=200>
+
 ## 12/28/25 - 36
 
 I started this time by redoing the head to body connection. I creates a really large sphere, moved it down until the top part of the sphere fit with the head, and removed the rest of the sphere. I then attached the sphere to the body with the Boolean tool. Next I tried to work on the tail. There was a weird overhang with how my previous attempt at the tail attached to the body, so I used the loft tool to try to slope the tail section down more smoothly. The connection at the back is better, but the sides are quite rough at the moment.
