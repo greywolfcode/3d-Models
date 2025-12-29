@@ -1,5 +1,11 @@
 # Journal
 
+## 12/29/25 - 33
+
+It was splines and sweeps to the rescue again. I redid the tip of the beak, as the old one didn't fit very well. I created a spline using the tip of the old beak, removed it, and then swept a section of the main beak to form the new beak. The new beak still has some strange flat sections, but is an improvement over the old one
+
+<img style="display: block; margin: auto;" alt="photo" src="images/new_beak.png" width=200>
+
 ## 12/29/25 - 28
 
 I started working on the face. I used spheres for the eyes, and used an extruded ellipses with a draft for the beak. I tried to use additional curves to shape the beak, and it worked for the most part, but it still has some strange curves on the side. I tried a bunch of fillets to smooth it out, but they couldn't be large enough.
