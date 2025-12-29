@@ -2,7 +2,7 @@
 
 Programmer's best friend.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/new_tail.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/face.png" width=200>
 
 
 ## License

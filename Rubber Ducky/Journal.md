@@ -1,5 +1,11 @@
 # Journal
 
+## 12/29/25 - 28
+
+I started working on the face. I used spheres for the eyes, and used an extruded ellipses with a draft for the beak. I tried to use additional curves to shape the beak, and it worked for the most part, but it still has some strange curves on the side. I tried a bunch of fillets to smooth it out, but they couldn't be large enough.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/face.png" width=200>
+
 ## 12/28/25 - 38
 
 I completely removed my previous tail design, and started over. It was just too messy to try to use the previous one. The new tail uses a similar 1mm symmetric curved base, but I used a loft on a spline to add the curve, which is much better. It should be much easier to work with.
