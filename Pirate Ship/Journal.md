@@ -1,5 +1,11 @@
 # Journal
 
+## 12/29/25 - 43
+
+I did a lot of work on the cannons. First, I shrunk the bow cannons, as they seemed too large for the scale of the ship, and then I moved them closer to the bow rail. Next, I placed two more of the cannons in the stern, this time pointing directly to port and starboard. Finally, I made 4 smaller cannons amidship facing to port and starboard. These cannons are made with the same technique of a cylinder with decorative rings and a half sphere at the back, but are smaller to fit better. I also shortened the plank so that it is only sticking out halfway to hopefully help it balance better.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/more_cannons.png" width=200>
+
 ## 12/24/25 - 10
 
 I added a plank to the Pirate ship. I first made it attach to a hole under the railing, but after I made it realised that it wouldn't need supports if I used a hole into the deck. The hole has the 0.1 mm tolerances as the other openings. I also added the 0.1 mm tolerance to the ship's wheel.
