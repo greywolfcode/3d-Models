@@ -1,5 +1,11 @@
 # Journal
 
+## 12/30/25 - 37
+
+To start, I added the 0.1mm tolerances to the mast sail and crows nest. For the main activity in this session, I added a pirate figurehead to the bow post. I had some difficulty with the strange angle the bow post is on, and had to make a number of planes to compensate. Most of my time was spent on the pirate hat. I had difficulty getting it to look "right"; eventually I used a 𝐿𝐸𝐺𝑂® hat as reference (part 2528pb03 to be exact).
+
+<img style="display: block; margin: auto;" alt="photo" src="images/figurehead.png" width=200>
+
 ## 12/29/25 - 43
 
 I did a lot of work on the cannons. First, I shrunk the bow cannons, as they seemed too large for the scale of the ship, and then I moved them closer to the bow rail. Next, I placed two more of the cannons in the stern, this time pointing directly to port and starboard. Finally, I made 4 smaller cannons amidship facing to port and starboard. These cannons are made with the same technique of a cylinder with decorative rings and a half sphere at the back, but are smaller to fit better. I also shortened the plank so that it is only sticking out halfway to hopefully help it balance better.
