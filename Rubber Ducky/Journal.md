@@ -1,5 +1,11 @@
 # Journal
 
+## 12/30/25 - 17
+
+I started the stand. The rubber ducky now has a hole in the base so it will always sit centred on the the stand. The stan itself is currently a section of a cone that the duck sits on top of, with a cylindrical base. On the outside of the cone is a cylindrical ring of binary digits; I retrieved these from my favourite random numbers website (https://qrng.anu.edu.au/). The numbers are upright, but that will be fine; it might make the 3d printing process easier
+
+<img style="display: block; margin: auto;" alt="photo" src="images/stand_startpng.png" width=200>
+
 ## 12/30/25 - 22
 
 I made the tail to body connection smoother. First, I removed the jutting out areas on the sides of the body by creating two surfaces and thickening them outward, and then I swept the remaining faces into the body. I then smoothed the transition from the base into the tail by creating another surface, thickening it, and booleaning the duck to it. It was creating a non-manifold body, so I extruded the base of the duck 1mm, booleaned them, and removed 1mm from the base.
