@@ -1,5 +1,11 @@
 # Journal
 
+## 12/30/25 - 22
+
+I made the tail to body connection smoother. First, I removed the jutting out areas on the sides of the body by creating two surfaces and thickening them outward, and then I swept the remaining faces into the body. I then smoothed the transition from the base into the tail by creating another surface, thickening it, and booleaning the duck to it. It was creating a non-manifold body, so I extruded the base of the duck 1mm, booleaned them, and removed 1mm from the base.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/smoother_tail.png" width=200>
+
 ## 12/29/25 - 33
 
 It was splines and sweeps to the rescue again. I redid the tip of the beak, as the old one didn't fit very well. I created a spline using the tip of the old beak, removed it, and then swept a section of the main beak to form the new beak. The new beak still has some strange flat sections, but is an improvement over the old one
