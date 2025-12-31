@@ -1,5 +1,11 @@
 # Journal
 
+## 12/31/25 - 27
+
+I added decorations to the deck of the ship. there is a treasure chest at the back of the ship, and plenty of barrels near the cannons. I added a crate as a test, but it didn't look good with the other decorations. I think this makes the deck look a lot more complete than when it was empty.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/decorations.png" width=200>
+
 ## 12/30/25 - 37
 
 To start, I added the 0.1mm tolerances to the mast sail and crows nest. For the main activity in this session, I added a pirate figurehead to the bow post. I had some difficulty with the strange angle the bow post is on, and had to make a number of planes to compensate. Most of my time was spent on the pirate hat. I had difficulty getting it to look "right"; eventually I used a 𝐿𝐸𝐺𝑂® hat as reference (part 2528pb03 to be exact).
