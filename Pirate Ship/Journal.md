@@ -1,5 +1,11 @@
 # Journal
 
+## 12/31/25 - 31
+
+Another round of downscaling. I went for a 0.75x scale factor as the final amount. The ship was still rather tall after the 0.5x downscale, and another 0.75x was just able to fit without the small parts becoming too small. I had even overcompensated a little bit on my original downscale, so some parts required not changes after the scaling. I did thicken some of the skull and crossbones, however, and fixed the centre reinforcement on the treasure chest. (Also, this screenshot is different from the previous one, although they look almost the same).
+
+<img style="display: block; margin: auto;" alt="photo" src="images/more_scale.png" width=200>
+
 ## 12/31/25 - 44
 
 I realised that I had made the ship over 30cm long, as I am not used to making models scaled for printability; this whole session was spent fixing that. I first scaled the entire ship down by a half, bringing to less than a ruler (but still pretty close, unfortunately). Unfortunately, I would likely have to redesign most of the ship if I made it any smaller, as there are many small parts that can't shrink any smaller. This broke all of my tolerances, so most of my time was spent adding 0.05mm to every slot to bring it back to 0.1mm. I hope that is enough tolerance; I am hoping for an interference fit. There really isn't much more that changed, none of it is easily visible. I'm hoping that I didn't make the ship too big.
