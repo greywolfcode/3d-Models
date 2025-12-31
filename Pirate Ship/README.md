@@ -4,6 +4,8 @@ A large pirate vessel.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/more_scale.png" width=200>
 
+Printables: https://www.printables.com/model/1536231-pirate-ship
+
 ## Parts
 
 Individual part files are the Pat Files folder. All_Files.3mf All_Files.step and All_Files.stl contain the laid out parts, whereas Pirate_Ship.3mf, Pirate_Ship.step and Pirate_Ship.stl contain the assembled ship.
