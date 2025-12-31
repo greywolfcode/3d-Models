@@ -1,4 +1,4 @@
-# Soaring Eagle
+# Pirate Ship
 
 A large pirate vessel.
 
