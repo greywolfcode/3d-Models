@@ -1,4 +1,10 @@
-# Journal
+# Journal - 7h34
+
+## 12/31/25 - 7
+
+In preparation for completion, I laid out all the parts required to build the model as level as I could, and made an exploded view to help with assembly.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/exploded_left.png" width=200>
 
 ## 12/31/25 - 31
 
