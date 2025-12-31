@@ -4,6 +4,19 @@ A large pirate vessel.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/more_scale.png" width=200>
 
+## Parts
+
+Individual part files are the Pat Files folder. All_Files.3mf All_Files.step and All_Files.stl contain the laid out parts, whereas Pirate_Ship.3mf, Pirate_Ship.step and Pirate_Ship.stl contain the assembled ship.
+
+## Exploded Views
+
+Left:
+
+<img style="display: block; margin: auto;" alt="photo" src="images/exploded_left.png" width=200>
+
+Right:
+
+<img style="display: block; margin: auto;" alt="photo" src="images/exploded_right.png" width=200>
 
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
