@@ -2,7 +2,7 @@
 
 A large pirate vessel.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/decorations.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/scaled.png" width=200>
 
 
 ## License
