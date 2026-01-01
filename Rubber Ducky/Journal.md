@@ -1,10 +1,16 @@
 # Journal
 
+## 1/1/26 - 42
+
+I added wings to the duck. My first step was to thicken the body of the duck into multiple new parts, then remove the sections I didn't want. This gave me a shape that contours to the body of the duck. Due to the weird angles caused by the way I added the tail. I had to add multiple extra pieces to fill weird gaps, mostly using sketches in combination with the fill tool. I mirrored the wing to the other side, attached it to the duck, and then smoothed out the body of the duck with fillets. The wings needed a lot of attention with the fillets, and there are still some stubborn edges remaining.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/wings.png" width=200>
+
 ## 12/30/25 - 17
 
 I started the stand. The rubber ducky now has a hole in the base so it will always sit centred on the the stand. The stan itself is currently a section of a cone that the duck sits on top of, with a cylindrical base. On the outside of the cone is a cylindrical ring of binary digits; I retrieved these from my favourite random numbers website (https://qrng.anu.edu.au/). The numbers are upright, but that will be fine; it might make the 3d printing process easier
 
-<img style="display: block; margin: auto;" alt="photo" src="images/stand_startpng.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/stand_start.png" width=200>
 
 ## 12/30/25 - 22
 
