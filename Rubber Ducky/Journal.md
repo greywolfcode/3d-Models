@@ -1,5 +1,11 @@
 # Journal
 
+## 1/1/26 - 20
+
+I added more decoration to the stand by making it look like a half egg shell. Making the rounded base and first spike didn't take too long, and I used a circular pattern to make the single jagged edge, I did have an issue that the duck is not centred on the origin, and so I had to move the axis of revolution over so the jagged edge fit. By far one of the longest tasks on making the shell was filleting all the edges. I think that the smoothed look fits well with the rest of the model, but there were a lot of them to select.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/shell.png" width=200>
+
 ## 1/1/26 - 42
 
 I added wings to the duck. My first step was to thicken the body of the duck into multiple new parts, then remove the sections I didn't want. This gave me a shape that contours to the body of the duck. Due to the weird angles caused by the way I added the tail. I had to add multiple extra pieces to fill weird gaps, mostly using sketches in combination with the fill tool. I mirrored the wing to the other side, attached it to the duck, and then smoothed out the body of the duck with fillets. The wings needed a lot of attention with the fillets, and there are still some stubborn edges remaining.
