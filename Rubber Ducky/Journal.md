@@ -1,5 +1,11 @@
 # Journal
 
+## 1/2/26 - 12
+
+I just did some smoothing to the tail and beak. i tried some smoothing on the wings, but I quickly realised that fillets were not going to work. I also fixed some strange geometry on the beak by extruding a small piece.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/shell.png" width=200>
+
 ## 1/1/26 - 20
 
 I added more decoration to the stand by making it look like a half egg shell. Making the rounded base and first spike didn't take too long, and I used a circular pattern to make the single jagged edge, I did have an issue that the duck is not centred on the origin, and so I had to move the axis of revolution over so the jagged edge fit. By far one of the longest tasks on making the shell was filleting all the edges. I think that the smoothed look fits well with the rest of the model, but there were a lot of them to select.
