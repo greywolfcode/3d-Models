@@ -1,10 +1,16 @@
 # Journal
 
+## 1/5/26 - 24
+
+I sliced the model and found that there were a number of non manifold edges. I redid the beak, a simple sketch and sweep was all it took to fix all the problems with the old beak, and thickened the top egg pattern of the base. I tried splitting the base into two parts to reduce supports, but I had to add a peg and slot, which would have increased supports due to a hole and raising the top piece up onto the peg, so it didn't seem to matter. Hopefully my other work has fixed most of the slicing issues and supports will hopefully not be too many.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/better_beak.png" width=200>
+
 ## 1/2/26 - 12
 
 I just did some smoothing to the tail and beak. i tried some smoothing on the wings, but I quickly realised that fillets were not going to work. I also fixed some strange geometry on the beak by extruding a small piece.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/shell.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/smoothed.png" width=200>
 
 ## 1/1/26 - 20
 
