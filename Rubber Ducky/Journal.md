@@ -1,5 +1,11 @@
 # Journal
 
+## 1/6/26 - 21
+
+I updated the wings. To start, I created two planes, and chopped the front section off the wings that included all of the weird geometry. I then used two revolves at90 degrees each to make the top and bottom halves of the wing. The revolves didn't align perfectly, so I cut the top piece down to be the size of the lower one. The new wings have their own strange geometry, but they are much better then the previous wings. Only about 13 non manifold edges left to fix.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/new_wings.png" width=200>
+
 ## 1/5/26 - 24
 
 I sliced the model and found that there were a number of non manifold edges. I redid the beak, a simple sketch and sweep was all it took to fix all the problems with the old beak, and thickened the top egg pattern of the base. I tried splitting the base into two parts to reduce supports, but I had to add a peg and slot, which would have increased supports due to a hole and raising the top piece up onto the peg, so it didn't seem to matter. Hopefully my other work has fixed most of the slicing issues and supports will hopefully not be too many.
