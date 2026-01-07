@@ -1,4 +1,10 @@
-# Journal - 5h58
+# Journal - 6h23
+
+## 1/6/26 - 23
+
+it might be a good thing I uploaded the wrong type of file and it got rejected- I realised the model was way to big. I shrunk the model by 50%, but this made the feathers too small to print (0.050mm). After spending a lot of time trying to thicken or extrude the feathers, I realised I could duplicate the eagle, chop off everything but the wings, and scale it by two only in the z direction to make the feathers an acceptable layer height. Now that I know that I can scale only in one direction, I don't know how I missed it the first time.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/scaled.png" width=200>
 
 ## 12/20/25 - 17
 
