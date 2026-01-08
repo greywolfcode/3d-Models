@@ -1,5 +1,11 @@
 # Journal
 
+## 1/8/26 - 55
+
+II have completed the internal steps (for the time being at least). I first made the openings int o irregular pentagons, which removed any potential ledges that the dice could get stuck on. I then added a slope to every stair to ensure that the dice won't get stuck inside. I potentially shouldn't have made the bottom and top sloped so I only have to make one modification, but I think this looks better. I did get into a rhythm. The most efficient method I found was to sketch on the upper layer, make a rectangle with one side a construction it would be forces to extrude just the slope I wanted. I added a translucent image in hope that it will show my work on the inside better than the cross section.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/steps.png" width=200>
+
 ## 1/2/26 - 52
 
 I added the rest of the stairs and slots/pegs to the tower, and made the tower larger. It is hard to see, as they are mostly internal adjustments, but the section view shows the steps a little bit.. The top two sections flare outward, so they are reversed wo that they can be printed upside down without supports.
