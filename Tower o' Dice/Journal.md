@@ -1,5 +1,11 @@
 # Journal
 
+## 1/9/26 - 46
+
+I started on the decorations for the base and the top. I made a courtyard for the tower to sit on, which has a fence that slots into it. The fence can be printed upside down so no supports are required. The top of the tower has a flared top with crenelations. I like the flared top piece, but it has some problems with having the crenelations and not requiring supports, so it may end up being just vertical.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/outside.png" width=200>
+
 ## 1/8/26 - 55
 
 II have completed the internal steps (for the time being at least). I first made the openings int o irregular pentagons, which removed any potential ledges that the dice could get stuck on. I then added a slope to every stair to ensure that the dice won't get stuck inside. I potentially shouldn't have made the bottom and top sloped so I only have to make one modification, but I think this looks better. I did get into a rhythm. The most efficient method I found was to sketch on the upper layer, make a rectangle with one side a construction it would be forces to extrude just the slope I wanted. I added a translucent image in hope that it will show my work on the inside better than the cross section.

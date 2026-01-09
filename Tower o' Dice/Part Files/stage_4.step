@@ -15,11 +15,11 @@ cturing Information (PMI)---4.0---2014-10-13',
 
 FILE_NAME(
 /* name */ 'Dice_Tower - stage_4',
-/* time_stamp */ '2026-01-08T21:11:50Z',
+/* time_stamp */ '2026-01-09T21:21:49Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'ONSHAPE BY PTC INC, 1.208',
+/* originating_system */ 'ONSHAPE BY PTC INC, 1.209',
 /* authorisation */ '  ');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 3 1 4 }'));
@@ -739,7 +739,7 @@ DATA;
 #718=SURFACE_STYLE_FILL_AREA(#719);
 #719=FILL_AREA_STYLE('',(#720));
 #720=FILL_AREA_STYLE_COLOUR('',#721);
-#721=COLOUR_RGB('',0.768627450980392,0.886274509803922,0.952941176470588);
+#721=COLOUR_RGB('',0.647058823529412,0.647058823529412,0.647058823529412);
 #722=MANIFOLD_SOLID_BREP('stage_4',#713);
 #723=SHAPE_DEFINITION_REPRESENTATION(#1141,#724);
 #724=SHAPE_REPRESENTATION('stage_4',(#725),#1136);
