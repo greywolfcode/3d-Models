@@ -2,7 +2,7 @@
 
 Programmer's best friend.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/new_wings.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/final_ducky.png" width=200>
 
 
 ## License

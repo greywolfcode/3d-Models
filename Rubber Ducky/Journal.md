@@ -1,8 +1,14 @@
 # Journal
 
+## 1/8/26 - 14
+
+When slicing the duck, there were many non-manifold edges. I attempted to thicken a number of faces where there were miniscule holes in the model to remove them, but currently there are still 21 non-manifold edges. However, the model can actually be sliced successfully and looks intact, so I am planning to leave the model as is now, as I do not have experience with blender or other mesh editing tools.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/final_ducky.png" width=200>
+
 ## 1/6/26 - 21
 
-I updated the wings. To start, I created two planes, and chopped the front section off the wings that included all of the weird geometry. I then used two revolves at90 degrees each to make the top and bottom halves of the wing. The revolves didn't align perfectly, so I cut the top piece down to be the size of the lower one. The new wings have their own strange geometry, but they are much better then the previous wings. Only about 13 non manifold edges left to fix.
+I updated the wings. To start, I created two planes, and chopped the front section off the wings that included all of the weird geometry. I then used two revolves at 90 degrees each to make the top and bottom halves of the wing. The revolves didn't align perfectly, so I cut the top piece down to be the size of the lower one. The new wings have their own strange geometry, but they are much better then the previous wings. Only about 13 non manifold edges left to fix.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/new_wings.png" width=200>
 
