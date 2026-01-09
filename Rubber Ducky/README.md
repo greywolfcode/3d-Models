@@ -4,6 +4,7 @@ Programmer's best friend.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/final_ducky.png" width=200>
 
+Printables: https://www.printables.com/model/1548578-rubber-ducky
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -16,5 +17,6 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 
 
