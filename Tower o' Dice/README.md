@@ -2,7 +2,7 @@
 
 A dice tower.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/outside.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/new_crenellations.png" width=200>
 
 
 ## License

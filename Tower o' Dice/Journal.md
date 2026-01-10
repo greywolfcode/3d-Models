@@ -1,20 +1,26 @@
 # Journal
 
+## 1/10/26 - 21
+
+I updated the crenelations to be much more physically possible, as it would have been impossible to assemble them the way I had it originally. To start, I removed the draft angle from the top piece of the tower, and deleted the old crenellations . The new crenellations are split into two parts- a connector peg, and the decorations themselves. Being printed in two parts means that no supports will be necessary. I also made some modifications to the top layer, modifying the opening to be more aesthetically pleasing. It now has a curved edge to match the upper wall, and connects to the curved outer while via two right angled walls.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/new_crenellations.png" width=200>
+
 ## 1/9/26 - 46
 
-I started on the decorations for the base and the top. I made a courtyard for the tower to sit on, which has a fence that slots into it. The fence can be printed upside down so no supports are required. The top of the tower has a flared top with crenelations. I like the flared top piece, but it has some problems with having the crenelations and not requiring supports, so it may end up being just vertical.
+I started on the decorations for the base and the top. I made a courtyard for the tower to sit on, which has a fence that slots into it. The fence can be printed upside down so no supports are required. The top of the tower has a flared top with crenelations. I like the flared top piece, but it has some problems with having the crenellations and not requiring supports, so it may end up being just vertical.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/outside.png" width=200>
 
 ## 1/8/26 - 55
 
-II have completed the internal steps (for the time being at least). I first made the openings int o irregular pentagons, which removed any potential ledges that the dice could get stuck on. I then added a slope to every stair to ensure that the dice won't get stuck inside. I potentially shouldn't have made the bottom and top sloped so I only have to make one modification, but I think this looks better. I did get into a rhythm. The most efficient method I found was to sketch on the upper layer, make a rectangle with one side a construction it would be forces to extrude just the slope I wanted. I added a translucent image in hope that it will show my work on the inside better than the cross section.
+II have completed the internal steps (for the time being at least). I first made the openings int o irregular pentagons, which removed any potential ledges that the dice could get stuck on. I then added a slope to every stair to ensure that the dice won't get stuck inside. I potentially shouldn't have made the bottom and top sloped so I only have to make one modification, but I think this looks better. I did get into a rhythm. The most efficient method I found was to sketch on the upper layer, make a rectangle with one side a construction, and it would be forces to extrude just the slope I wanted. I added a translucent image in hope that it will show my work on the inside better than the cross section.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/steps.png" width=200>
 
 ## 1/2/26 - 52
 
-I added the rest of the stairs and slots/pegs to the tower, and made the tower larger. It is hard to see, as they are mostly internal adjustments, but the section view shows the steps a little bit.. The top two sections flare outward, so they are reversed wo that they can be printed upside down without supports.
+I added the rest of the stairs and slots/pegs to the tower, and made the tower larger. It is hard to see, as they are mostly internal adjustments, but the section view shows the steps a little bit.. The top two sections flare outward, so they are reversed so that they can be printed upside down without supports.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/section_view.png" width=200>
 
