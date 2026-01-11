@@ -1,5 +1,11 @@
 # Journal
 
+## 1/10/26 - 26
+
+I started on the archway over the dice exit. I started by creating and arch an wrapping it onto the base and stage 1, and then did a lot of adjusting to make it actually fit. The arch extended beyond the edges of the main stages, and had to be trimmed to fit around that and the doorway. I had some problems with the wrap causing them to be curved surfaces and not easy to use flat ones, so it took a number of extrudes and thickens to get the arch to fit properly.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/arch_start.png" width=200>
+
 ## 1/10/26 - 21
 
 I updated the crenelations to be much more physically possible, as it would have been impossible to assemble them the way I had it originally. To start, I removed the draft angle from the top piece of the tower, and deleted the old crenellations . The new crenellations are split into two parts- a connector peg, and the decorations themselves. Being printed in two parts means that no supports will be necessary. I also made some modifications to the top layer, modifying the opening to be more aesthetically pleasing. It now has a curved edge to match the upper wall, and connects to the curved outer while via two right angled walls.
