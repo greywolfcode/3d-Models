@@ -1,4 +1,11 @@
 # Journal
+
+## 1/11/26 - 25
+
+I started this session planning to do a bunch of decorations on the external wall. I began by thickening the edge of the frame for the arched windows, as after slicing I found that they were not being printed. I then went to add a main gate, and then realised that I had forgotten that the castle was sitting on a fairly thick base. I then spent some time trying to make a bridge extend out, but decided that a ramp would be easier, and more printable. The gateway has an arched entrance (I like arches; I think they look good), but it is quite large, so I added two doors sitting slightly ajar that may be able to help it be printed
+
+<img style="display: block; margin: auto;" alt="photo" src="images/gateway.png" width=200>
+
 ## 1/11/26 - 31
 
 I started adding the upper layers of the castle. I am going for a sort of layered cake design, with multiple layers going up. there a number of overhangs with 45 degree chamfers so they hopefully wont need supports (I sliced the towers and they didn't need any), although the arches might have to be removed. I am trying to continue with the hexagonal design, even on the circular towers, by having the outside decorations be in six directions.
