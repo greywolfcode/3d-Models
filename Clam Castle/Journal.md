@@ -1,5 +1,11 @@
 # Journal
 
+## 1/12/26 - 35
+
+I did a little more work on the outside details of the castle, making three big changes. I started by doing about three minutes of trying to add shingles and bricks, but I didn't like how they turned out, and so am leaving them for the time being. Instead, I finished off the ramp up to the upper level of the castle by adding a floating section. It had chamfers underneath to make it printable without supports (might be changed after I slice it). I added another gate at the top of the ramp, and I like how it looks with the main, large gate at the base at the smaller gate above. I then tried to add a hexagram to the surface below the central cone, but decided a normal hexagon was better. The outer six pieces then got some sloped roofs.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/upper_gate.png" width=200>
+
 ## 1/11/26 - 25
 
 I started this session planning to do a bunch of decorations on the external wall. I began by thickening the edge of the frame for the arched windows, as after slicing I found that they were not being printed. I then went to add a main gate, and then realised that I had forgotten that the castle was sitting on a fairly thick base. I then spent some time trying to make a bridge extend out, but decided that a ramp would be easier, and more printable. The gateway has an arched entrance (I like arches; I think they look good), but it is quite large, so I added two doors sitting slightly ajar that may be able to help it be printed
