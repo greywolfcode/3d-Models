@@ -1,5 +1,11 @@
 # Journal
 
+## 1/12/22 - 26
+
+This is a very not visible change. I was listing the things I needed to still do on this project, and I realised that I had added no tolerances to the parts that must slot together. Accordingly, I added a 0.2mm tolerance to every single hole, and shrunk the pegs by the same 0.2mm amount. Just in case I need to change my tolerances, I made the tolerances a variable.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/tolorences.png" width=200>
+
 ## 1/10/26 - 26
 
 I started on the archway over the dice exit. I started by creating and arch an wrapping it onto the base and stage 1, and then did a lot of adjusting to make it actually fit. The arch extended beyond the edges of the main stages, and had to be trimmed to fit around that and the doorway. I had some problems with the wrap causing them to be curved surfaces and not easy to use flat ones, so it took a number of extrudes and thickens to get the arch to fit properly.
