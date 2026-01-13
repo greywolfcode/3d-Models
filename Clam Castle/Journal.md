@@ -1,5 +1,11 @@
 # Journal
 
+## 1/12/26 - 44
+
+I decorated the outer walls of the castle in this session. There were two major decorations, the first was arrow slits. I tried multiple different designs of arrow slits, straight rectangles, crosspieces, crosspieces with hexagons, and ended up with a more minimalist rectangle with pointed ends. The minimalist look fits that castle better, and I realised that they are actually hexagons (just irregular ones). I then wanted to put some detail above the main gate, as the arrow slits were to big to fit, and so did some (un-time-tracked) research into hexagon symbols, and found some I liked to inspire my design on the castle. I had some problems making the breaks in each of the connectors where I couldn't add the breaks in the design without dragging the line very close to my 1mm break, as it would say the sketch could not be solved. I then made it bigger until it could be sliced properly (although it might have to get bigger still).
+
+<img style="display: block; margin: auto;" alt="photo" src="images/arrow_slits.png" width=200>
+
 ## 1/12/26 - 35
 
 I did a little more work on the outside details of the castle, making three big changes. I started by doing about three minutes of trying to add shingles and bricks, but I didn't like how they turned out, and so am leaving them for the time being. Instead, I finished off the ramp up to the upper level of the castle by adding a floating section. It had chamfers underneath to make it printable without supports (might be changed after I slice it). I added another gate at the top of the ramp, and I like how it looks with the main, large gate at the base at the smaller gate above. I then tried to add a hexagram to the surface below the central cone, but decided a normal hexagon was better. The outer six pieces then got some sloped roofs.
