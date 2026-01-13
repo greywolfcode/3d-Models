@@ -1,5 +1,11 @@
 # Journal
 
+## 1/13/22 - 15
+
+I made quite a bit of progress in a short time. I realised that if I made a rectangle with the same area as each layer, I can ensure that the bricks perfectly wrap around the outside. I only had time for the top layer, but it looks really good and I think once the rest of the layers are done it will look really good.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/bricks1.png" width=200>
+
 ## 1/12/22 - 26
 
 This is a very not visible change. I was listing the things I needed to still do on this project, and I realised that I had added no tolerances to the parts that must slot together. Accordingly, I added a 0.2mm tolerance to every single hole, and shrunk the pegs by the same 0.2mm amount. Just in case I need to change my tolerances, I made the tolerances a variable.

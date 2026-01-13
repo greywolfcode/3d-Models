@@ -14,8 +14,8 @@ cturing Information (PMI)---4.0---2014-10-13',
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Dice_Tower - crenellations',
-/* time_stamp */ '2026-01-12T20:29:20Z',
+/* name */ '6966ae47f2e7d1c185623966',
+/* time_stamp */ '2026-01-13T20:42:47Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -1842,7 +1842,7 @@ DATA;
 #1814=SURFACE_STYLE_FILL_AREA(#1815);
 #1815=FILL_AREA_STYLE('',(#1816));
 #1816=FILL_AREA_STYLE_COLOUR('',#1817);
-#1817=COLOUR_RGB('',0.207843137254902,0.207843137254902,0.207843137254902);
+#1817=COLOUR_RGB('',0.262745098039216,0.282352941176471,0.301960784313725);
 #1818=MANIFOLD_SOLID_BREP('crenellations',#1809);
 #1819=SHAPE_DEFINITION_REPRESENTATION(#2875,#1820);
 #1820=SHAPE_REPRESENTATION('crenellations',(#1821),#2870);
