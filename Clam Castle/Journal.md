@@ -1,5 +1,11 @@
 # Journal
 
+## 1/13/26 - 53
+
+I had a bunch of time to work without being able journal, so I got quite a bit done. I started by upgrading the logo over the gate to be inside a larger hexagon. It not any allows me to make the symbol bigger, but also the hexagon just looks cool. I did have the problem that I had to redo some sketches as extruding the hexagon broke them. I don't know why. I then added arrow slits to the inner wall, which wasn't too hard. The final and longest task I did was add shingles to the six angled roofs. I was originally going to do curved (terracotta-like) shingles, but during some research I saw hexagonal shingles and knew that was the right choice. After a few sketches, I used a linear pattern to finish the roof, then copied and used a circular pattern on it to copy the roof tiles to all sides.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/roofs.png" width=200>
+
 ## 1/12/26 - 44
 
 I decorated the outer walls of the castle in this session. There were two major decorations, the first was arrow slits. I tried multiple different designs of arrow slits, straight rectangles, crosspieces, crosspieces with hexagons, and ended up with a more minimalist rectangle with pointed ends. The minimalist look fits that castle better, and I realised that they are actually hexagons (just irregular ones). I then wanted to put some detail above the main gate, as the arrow slits were to big to fit, and so did some (un-time-tracked) research into hexagon symbols, and found some I liked to inspire my design on the castle. I had some problems making the breaks in each of the connectors where I couldn't add the breaks in the design without dragging the line very close to my 1mm break, as it would say the sketch could not be solved. I then made it bigger until it could be sliced properly (although it might have to get bigger still).
