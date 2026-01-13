@@ -1,5 +1,11 @@
 # Journal
 
+## 1/13/26 - 23
+
+To start i made the castle 1.2x bigger. It slices better, and the small details look much better on the slightly bigger model. I also added a chamfer to the hexagon over the gate to help it print better. it does mean the gates couldn't "technically" close, but that doesn't matter with a static model. There are two supports on the front gate, but that will have to be what it is. i the started on the shell. Due to the castle being so big, I can't have a top and bottom shell that closes around the castle as I originally planned. Instead, there will be a single shell underneath the castle, which I started trying to shape. I got the front-to-back shape pretty good, but the side to side shape is just made with fillets, so I am not sure how much I like it.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/shell.png" width=200>
+
 ## 1/13/26 - 53
 
 I had a bunch of time to work without being able journal, so I got quite a bit done. I started by upgrading the logo over the gate to be inside a larger hexagon. It not any allows me to make the symbol bigger, but also the hexagon just looks cool. I did have the problem that I had to redo some sketches as extruding the hexagon broke them. I don't know why. I then added arrow slits to the inner wall, which wasn't too hard. The final and longest task I did was add shingles to the six angled roofs. I was originally going to do curved (terracotta-like) shingles, but during some research I saw hexagonal shingles and knew that was the right choice. After a few sketches, I used a linear pattern to finish the roof, then copied and used a circular pattern on it to copy the roof tiles to all sides.
