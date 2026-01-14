@@ -1,5 +1,11 @@
 # Journal
 
+# 1/14/26 - 15
+
+I was researching conical roofs, and found some images of spiral shingle patterns. To give it a try, I made a helix with an arbitrary number of twelve revolutions, and curve patterned a hexagon around it. I then used a circular pattern to fill in the gaps left by the spacing on the helix. This roof looks much better, and is what I will be going with moving forwards. It has some issues such as the bottom piece not being a smooth end, and the top being quite strange, but it is so much better than the previous design I tried, and lets me keep my hexagonal shingles.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/roofidea2.png" width=200>
+
 # 1/14/26 - 33
 
 I tried to shingle the conical roof. I placed some hexagons on the cone using a cylinder and some thickens, it took a bit of messing with, but it worked quite well, then used a linear pattern to extend them. I had some problems with getting the line angle for the linear pattern just right. Trial and error got it right. I then used a circular pattern to surround the roof with tiles. It is not quite a cone, and the tiles don't all line up (I guess hexagons can't tile a cone). I like having the peak shingled, but it will need more messing with to make it look really good.
