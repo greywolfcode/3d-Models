@@ -1,5 +1,11 @@
 # Journal
 
+# 1/14/26 - 33
+
+I tried to shingle the conical roof. I placed some hexagons on the cone using a cylinder and some thickens, it took a bit of messing with, but it worked quite well, then used a linear pattern to extend them. I had some problems with getting the line angle for the linear pattern just right. Trial and error got it right. I then used a circular pattern to surround the roof with tiles. It is not quite a cone, and the tiles don't all line up (I guess hexagons can't tile a cone). I like having the peak shingled, but it will need more messing with to make it look really good.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/roofidea1.png" width=200>
+
 ## 1/13/26 - 23
 
 To start i made the castle 1.2x bigger. It slices better, and the small details look much better on the slightly bigger model. I also added a chamfer to the hexagon over the gate to help it print better. it does mean the gates couldn't "technically" close, but that doesn't matter with a static model. There are two supports on the front gate, but that will have to be what it is. i the started on the shell. Due to the castle being so big, I can't have a top and bottom shell that closes around the castle as I originally planned. Instead, there will be a single shell underneath the castle, which I started trying to shape. I got the front-to-back shape pretty good, but the side to side shape is just made with fillets, so I am not sure how much I like it.
