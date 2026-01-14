@@ -1,5 +1,11 @@
 # Journal
 
+## 1/14/22 - 43
+
+I went to put bricks on the two upper sloped sections, and found out that I couldn't wrap the bricks around the conical sections without it curving off at a weird angle. I tried a number of ideas such as changing an angle in the wrap and making a plane angled next to the section. Eventually i just made another cylinder around the section, wrapped the bricks onto it, then carved them into a conical shape with a thicken. It works, and I think it does look good, but it does have the problem that due to the different sizes of sections the bricks do not perfectly line up. I am glad I didn't have to give up on the bricks, but it would be nice if there was a simpler solution.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/more_bricks.png" width=200>
+
 ## 1/13/22 - 15
 
 I made quite a bit of progress in a short time. I realised that if I made a rectangle with the same area as each layer, I can ensure that the bricks perfectly wrap around the outside. I only had time for the top layer, but it looks really good and I think once the rest of the layers are done it will look really good.
