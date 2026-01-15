@@ -4,7 +4,7 @@
 
 This is very short, as for the time being I am finished with the castle and will be moving on to the shell now. I moved the ring down by 0.1mm and it allowed me to attach it to the castle. I then tried creating a cone and thickening it to make the top a peak, but I think that the rough nature of the top fits the design of the castle, a suddenly smooth point looks bad. before journaling I tested it in the slicer, and to my surprise, the ring doesn't require supports to print! It appears that the shingles also will be visible, at the very least there will be some texture on the roof. 
 
-<img style="display: block; margin: auto;" alt="photo" src="images/roof_finished.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/finished_roof.png" width=200>
 
 # 1/15/26 - 34
 
