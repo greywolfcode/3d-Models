@@ -1,5 +1,11 @@
 # Journal
 
+# 1/15/26 - 34
+
+The roof is causing a little bit of trouble. I used a circular pattern to fill in some of the gaps in the shingles, but the bottom still looks pretty bad. I used a circular pattern to create a ring of hexagons around the base and thicken it so it extends past the shingles. i then extruded down and removed the shingles that would create weird artifacts beneath the outer ring. However, I still am having the problem that I can't actually attach the ring to the castle; it tells me it doesn't return a valid part. Also, Onshape was being really slow I cut about 10 minutes off my time as I spent so much of it just waiting for it to load tools.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/roof3.png" width=200>
+
 # 1/14/26 - 15
 
 I was researching conical roofs, and found some images of spiral shingle patterns. To give it a try, I made a helix with an arbitrary number of twelve revolutions, and curve patterned a hexagon around it. I then used a circular pattern to fill in the gaps left by the spacing on the helix. This roof looks much better, and is what I will be going with moving forwards. It has some issues such as the bottom piece not being a smooth end, and the top being quite strange, but it is so much better than the previous design I tried, and lets me keep my hexagonal shingles.
