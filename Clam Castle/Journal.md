@@ -1,5 +1,11 @@
 # Journal
 
+# 1/15/26 - 5
+
+This is very short, as for the time being I am finished with the castle and will be moving on to the shell now. I moved the ring down by 0.1mm and it allowed me to attach it to the castle. I then tried creating a cone and thickening it to make the top a peak, but I think that the rough nature of the top fits the design of the castle, a suddenly smooth point looks bad. before journaling I tested it in the slicer, and to my surprise, the ring doesn't require supports to print! It appears that the shingles also will be visible, at the very least there will be some texture on the roof. 
+
+<img style="display: block; margin: auto;" alt="photo" src="images/roof_finished.png" width=200>
+
 # 1/15/26 - 34
 
 The roof is causing a little bit of trouble. I used a circular pattern to fill in some of the gaps in the shingles, but the bottom still looks pretty bad. I used a circular pattern to create a ring of hexagons around the base and thicken it so it extends past the shingles. i then extruded down and removed the shingles that would create weird artifacts beneath the outer ring. However, I still am having the problem that I can't actually attach the ring to the castle; it tells me it doesn't return a valid part. Also, Onshape was being really slow I cut about 10 minutes off my time as I spent so much of it just waiting for it to load tools.
