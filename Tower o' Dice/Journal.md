@@ -1,5 +1,11 @@
 # Journal
 
+## 1/15/22 - 30
+
+I added even more bricks! I finished the four vertical pieces, which were really nice and easy. I did have the problem that I forgot to add the spacing between the final brick and the edge where it would wrap around, so it merged with the first brick. it took quite a bit of messing with constraints to finally get it fixed. The problem was exacerbated by the fact that I had used a linear pattern to cover all four sections, so I had to find the right constraints in every section of the pattern. I also started on the first conical section of the base, and expanded the crenelations piece to fully cover the bricks (I may put bricks int he inside top section, but don't want to extrude them out). Only five more sections to go!
+
+<img style="display: block; margin: auto;" alt="photo" src="images/even_more_bricks.png" width=200>
+
 ## 1/14/22 - 43
 
 I went to put bricks on the two upper sloped sections, and found out that I couldn't wrap the bricks around the conical sections without it curving off at a weird angle. I tried a number of ideas such as changing an angle in the wrap and making a plane angled next to the section. Eventually i just made another cylinder around the section, wrapped the bricks onto it, then carved them into a conical shape with a thicken. It works, and I think it does look good, but it does have the problem that due to the different sizes of sections the bricks do not perfectly line up. I am glad I didn't have to give up on the bricks, but it would be nice if there was a simpler solution.
