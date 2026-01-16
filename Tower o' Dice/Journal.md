@@ -1,5 +1,11 @@
 # Journal
 
+## 1/16/22 - 33
+
+More layers are done! I can tell I am getting faster at doing layers, but the conical sections are still taking me time. Being unable to wrap horizontally on the conical sections is still a bit of a pain. On the plus side, I made the bricks slightly smaller instead of larger this time, and all the lower conical layers are aligning. When I am sketching, I am making the two offset bricks, then using a linear pattern to extend them the length of the section. As I never make them the perfect size, I have the choice to whether choose he one slightly inside, expanding all bricks, or choose the brick outside, shrinking all the bricks. I am not sure why, but choosing the outside brick is making them all line up, which is really, really nice.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/really_even_more_bricks.png" width=200>
+
 ## 1/15/22 - 30
 
 I added even more bricks! I finished the four vertical pieces, which were really nice and easy. I did have the problem that I forgot to add the spacing between the final brick and the edge where it would wrap around, so it merged with the first brick. it took quite a bit of messing with constraints to finally get it fixed. The problem was exacerbated by the fact that I had used a linear pattern to cover all four sections, so I had to find the right constraints in every section of the pattern. I also started on the first conical section of the base, and expanded the crenelations piece to fully cover the bricks (I may put bricks int he inside top section, but don't want to extrude them out). Only five more sections to go!
