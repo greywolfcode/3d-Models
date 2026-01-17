@@ -1,5 +1,11 @@
 # Journal
 
+# 1/17/26 - 44
+
+The shell is completely redone, at it looks so much better. I had read some techniques used for shells, and decided to try using curves and lofts to create a basic shape of the shell using a surface. I then extruded the shape of the shell up to the surface to create a part with the curvature I wanted. I had some problems with having an edge curve be curved too much so the extrude couldn't fill a piece. It took quite a bit of fiddling to get the shape just right. To make creating this easier, I didn't bother creating my shell in any way aligned with the castle. However, I need to make sure the castle still fits with he shell, so I had to flip the shell upside down, and move castle up and over until it was aligned properly
+
+<img style="display: block; margin: auto;" alt="photo" src="images/clam_shell_2.png" width=200>
+
 # 1/15/26 - 35
 
 I started trying to work on the clam shell the castle is sitting on. I first tried to make some curves wrapping the shell, but they just didn't wrap properly. I then removed the shaping of the shell and made some curved pieces which I revolved to attempt to make the rough texture of the shell. It sort of works, but it doesn't look quite right. I may have to make a smooth shell due to the problems I am having with shaping.
