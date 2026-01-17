@@ -1,4 +1,4 @@
-# Journal
+# Journal - 8h10
 
 ## 1/17/22 - 36
 
