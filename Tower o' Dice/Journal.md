@@ -1,5 +1,11 @@
 # Journal
 
+## 1/17/22 - 36
+
+I had unthinkingly completely done the scale wrong on this model, it used almost two kilograms of filament. To fix this, I firstly scaled the model down by 0.75. This should still allow a dice to fit, the gaps are bigger than a traditional dice, but reduces filament quite a bit. Secondly, I put large holes in each layer. You will never see them once the model is assembled, but it quite a bit of filament use. Adding holes took quite a bit of fiddling, but both of these adjustments brought filament use form over 1700 grams to a about 720 grams.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/final.png" width=200>
+
 ## 1/17/22 - 35
 
 I wanted to add some final decorations to the tower, and was surprised at how long it took. I wanted to add a banner with a dice icon to the top of the tower. The banner and pole are the same thickness so it doesn't need supports, which didn't take to long, but the dice icon took much longer. It wanted to make it isometric, so I drew out a shape with 120 degree angles between the sides. I then went to draw all the dots on the dice. I picked the 4-5-6 side as in many games bigger numbers are better, so it would make sense for that to be on the banner. I had big problems with making the dots fit the isometric style of the rest of the dice. I ended up drawing isometric "rectangles" as a base for the dots, but had some problems where making the rectangles ruined sketch constraints for some reason. I ended up making 3 sketches on top of each other to finished. I think it was worth it, as the dice makes the tower look mare interesting than a single straight tower. As a finishing touch, I placed a question mark over the dice exit, which fortunately didn't take too long.

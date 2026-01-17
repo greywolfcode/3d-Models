@@ -1,8 +1,10 @@
 # Tower o' Dice
 
-A dice tower.
+The rolling machine of randomness. This is a dice tower that can roll standard dice, and is made up of 18 parts. Each piece of the model can be printed without supports if oriented correctly; see the PRINT files in Printable upload for more. info. Each stage of the tower is numbered and will slot into he next layer; the top few layers are upside down when assembled.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/banner.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/final.png" width=200>
+
+Printables: https://www.printables.com/model/1560290-dice-tower
 
 
 ## License
