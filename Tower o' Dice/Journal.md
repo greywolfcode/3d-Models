@@ -1,5 +1,11 @@
 # Journal
 
+## 1/17/22 - 27
+
+The bricks are done. I finished the bottom two layers that have the archway and exit, and did the inside of the top layer. When I started, I was worried that the archway would cause problems for attaching the bricks. However, when thickening the outside, the archway and inside the archway isn't come with the thicken, allowing me to easily remove that brick sections inside the arch. What did cause me problems was the bottom layer. I had made my cylinder as normal, found the area, and divided by 30 (which is section height) to get the length my rectangle needed to be to wrap around the tower perfectly. I then went and made the bricks, wrapped them... and realised that they overlapped at the back. I tried shrinking the bricks, the gaps between them to no avail. I had forgotten something important, that, when adding the ramp, I had extruded the base by 0.2mm to add rigidity to it. After realising my mistake, a quick recalculation of the area made them all line up top my relief.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/bricks_done.png" width=200>
+
 ## 1/16/22 - 33
 
 More layers are done! I can tell I am getting faster at doing layers, but the conical sections are still taking me time. Being unable to wrap horizontally on the conical sections is still a bit of a pain. On the plus side, I made the bricks slightly smaller instead of larger this time, and all the lower conical layers are aligning. When I am sketching, I am making the two offset bricks, then using a linear pattern to extend them the length of the section. As I never make them the perfect size, I have the choice to whether choose he one slightly inside, expanding all bricks, or choose the brick outside, shrinking all the bricks. I am not sure why, but choosing the outside brick is making them all line up, which is really, really nice.
