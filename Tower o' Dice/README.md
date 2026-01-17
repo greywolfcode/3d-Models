@@ -2,7 +2,7 @@
 
 A dice tower.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/bricks_done.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/banner.png" width=200>
 
 
 ## License
