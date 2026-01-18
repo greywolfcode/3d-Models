@@ -1,5 +1,11 @@
 # Journal
 
+# 1/18/26 - 27
+
+I finished up the shell. I used an offset plane and a loft to create a curvature shape, as well as messing with the loft settings to get a more curved shape. I originally tried to use a smaller version of the shell shape as my loft, but the loft couldn't be completed, so I used a simple arc instead. I then made a stand for the shell; it is a pretty basic angled curved piece, but it is molded to fit the shape of the shell. I duplicated the shell and used it to cut the shape out of the stand.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/stand.png" width=200>
+
 # 1/17/26 - 44
 
 The shell is completely redone, at it looks so much better. I had read some techniques used for shells, and decided to try using curves and lofts to create a basic shape of the shell using a surface. I then extruded the shape of the shell up to the surface to create a part with the curvature I wanted. I had some problems with having an edge curve be curved too much so the extrude couldn't fill a piece. It took quite a bit of fiddling to get the shape just right. To make creating this easier, I didn't bother creating my shell in any way aligned with the castle. However, I need to make sure the castle still fits with he shell, so I had to flip the shell upside down, and move castle up and over until it was aligned properly

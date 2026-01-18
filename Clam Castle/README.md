@@ -2,7 +2,7 @@
 
 Sand Castle in a Clam Shell.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/clam_shell_2.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/stand.png" width=200>
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
