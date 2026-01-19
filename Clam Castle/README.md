@@ -1,6 +1,8 @@
 # Clam Castle
 
-Sand Castle in a Clam Shell.
+Sand Castle in a Clam Shell.This model comes in three parts: the stand, the shell, and the castle. It uses a few supports, mostly for the arched doorway in the castle and the cutout in the shell. The cutout in the shell is for aligning the castle, as the shell, stand, and castle should all just fit together. See the PRINT files for all the parts laid out.
+
+Printables: https://www.printables.com/model/1562666-sand-castle
 
 <img style="display: block; margin: auto;" alt="photo" src="images/final.png" width=200>
 
