@@ -1,5 +1,11 @@
 # Journal
 
+# 1/19/26 - 37
+
+It is about time to wrap up this project, but there are a few more details I want to add first. I started adding brick detailing to the outer walls. I would like to do all the walls eventually to make this one of my most detailed models. There were some problems with this being a somewhat last minute decision, as I had to add and extruded border around the arrow slits. I also had to do the front gates separately, as I had to work around the symbol and the gate. I ended up removing two of the arrow slits over the gate, as adding the border would run into the big hexagon, and I don't think it is missing anything by not having them.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/bicks1.png" width=200>
+
 # 1/18/26 - 27
 
 I finished up the shell. I used an offset plane and a loft to create a curvature shape, as well as messing with the loft settings to get a more curved shape. I originally tried to use a smaller version of the shell shape as my loft, but the loft couldn't be completed, so I used a simple arc instead. I then made a stand for the shell; it is a pretty basic angled curved piece, but it is molded to fit the shape of the shell. I duplicated the shell and used it to cut the shape out of the stand.
