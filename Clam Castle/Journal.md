@@ -1,10 +1,16 @@
 # Journal
 
+# 1/19/26 - 59
+
+I finished the bricks on the castle, which was a long and a little bit irritating process. Onshape was being difficult and slow due to the model having so many parts, and so it took some time to select all the bricks to extrude. The first set took the longest because there was one single brick causing a non manifold edge, and I had to individually select each brick to find which one it was. Afterword's for the remaining walls I could just deselect that single brick, but It did take some time to find. I had thought that it was a problem with the ramps, but it turned out to be by the arrow slits. i do think that the result looks good, however. I am going to leave the circular parts smooth, as I don't think it takes anything away from the model, and they would be somewhat difficult to add bricks to.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/final.png" width=200>
+
 # 1/19/26 - 37
 
 It is about time to wrap up this project, but there are a few more details I want to add first. I started adding brick detailing to the outer walls. I would like to do all the walls eventually to make this one of my most detailed models. There were some problems with this being a somewhat last minute decision, as I had to add and extruded border around the arrow slits. I also had to do the front gates separately, as I had to work around the symbol and the gate. I ended up removing two of the arrow slits over the gate, as adding the border would run into the big hexagon, and I don't think it is missing anything by not having them.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/bicks1.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/bricks1.png" width=200>
 
 # 1/18/26 - 27
 
