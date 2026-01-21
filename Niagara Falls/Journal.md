@@ -1,6 +1,12 @@
 # Journal
 
-## 1/19/26 - 29
+## 1/21/26 - 21
+
+I added more details to the American falls today. The American falls have a less steep sloped area under the main falls, so I used a side on image as reference for where to place the rocks sticking out of the water. There is a small waterfall off to the side of the main American falls, so I added that as well. This included adding the sloped ground that exists between the Canadian and American and falls, then lofting the previous water area up to meet it to create the area of runoff. It does look a little funny as this section of water just stop in the ground, but that area is forested, so it was hidden in my image, so I will fix it later when I do the decoration at the top.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/more_falls.png" width=200>
+
+## 1/20/26 - 29
 
 To start I created the two main waterfalls— The Canadian and US falls. As reference I used Google Maps with the terrain view. I didn't want to mess with trying to trace an image, I learned that it is a pain for my Middle Earth map project, so this is not to scale at all. I am just looking at the map and making approximately what it looks like using splines. This is much more relaxed and there is much less lag. I had two major challenges in this session. The first was figuring out which way was which when I had the model upside down. I carved an L and R into the underside to help me remember (I should probably remember to remove these when it is done). My second challenge is that Onshape and Google Maps use different controls for panning. I constantly would switch tabs and immediately use the wrong controls.
 
