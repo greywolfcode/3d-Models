@@ -1,5 +1,11 @@
 # Journal
 
+# 1/21/26 - 18
+
+A pretty short journal as I am finishing up the wings for the time being and moving and I like keeping my progress updates fairly focused on what I modified. This time I readded the bone structures to the undersides of the wings. They are once again based off bat wings with the shape of the bones having one major bone and some minor bones holding the wing in place. I created a sketch with just lines mapping out where I wanted bones, and then swept some half circles to create eh bone structures themselves. in order to do this, I learned that curve point planes can crate a plane perpendicular to a line.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/bones.png" width=200>
+
 # 1/20/26 - 35
 
 I finished the basic models for the wings. There are now two parts connected by a ball joint, and the wings additionally are much larger. After creating the basic shape, I added a claw to the second part of the wing by creating a ellipse and lofting to a point below the wing. I then went to add some shaping, as the flat wing made the larger ball joint connectors look funny. The first section without too many irregular curves worked fine to have a steep slope at the front and then shallowly slope at the back, but on the second section I had to do a number of thickens and extrudes to remove weird artifacts round the claw
