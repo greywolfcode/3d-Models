@@ -2,7 +2,7 @@
 
 This is not to scale.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/more_falls.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/outline.png" width=200>
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]

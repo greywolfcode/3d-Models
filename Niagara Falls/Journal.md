@@ -1,5 +1,11 @@
 # Journal
 
+## 1/21/26 - 31
+
+I have finished the outline for the rest f the falls. There are more landscaping details to do, but overall the basic terrain is done. I connected the smaller falls to the American falls, and extended the river by the Canadian falls, extended the river and high ground, and adjusted some of the island shapes. I am planning to stop the model around where the boat tour docks are so I can include the boats in the model. Also, the model now fits into a rectangle.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/outline.png" width=200>
+
 ## 1/21/26 - 21
 
 I added more details to the American falls today. The American falls have a less steep sloped area under the main falls, so I used a side on image as reference for where to place the rocks sticking out of the water. There is a small waterfall off to the side of the main American falls, so I added that as well. This included adding the sloped ground that exists between the Canadian and American and falls, then lofting the previous water area up to meet it to create the area of runoff. It does look a little funny as this section of water just stop in the ground, but that area is forested, so it was hidden in my image, so I will fix it later when I do the decoration at the top.
