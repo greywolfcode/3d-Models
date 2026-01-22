@@ -1,5 +1,11 @@
 # Journal
 
+# 1/21/26 - 25
+
+I started adding the legs. I am noticing that I am getting much faster at creating ball joints (I just hope they work). I made the legs a two part leg including the foot, similar to a human leg. I was having trouble picking what the right leg length was, I still am not sure they are the right length compared to the wings. The wings are the focus, but the legs still need to not be tiny. I also started trying to figure out the right foot shape. I am mostly used to 𝐿𝐸𝐺𝑂® dragons but they look blocky on the more detailed and rounded dragon I have, so I might try to sculpt a 3-toed foot later.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/legs.png" width=200>
+
 # 1/21/26 - 18
 
 A pretty short journal as I am finishing up the wings for the time being and moving and I like keeping my progress updates fairly focused on what I modified. This time I readded the bone structures to the undersides of the wings. They are once again based off bat wings with the shape of the bones having one major bone and some minor bones holding the wing in place. I created a sketch with just lines mapping out where I wanted bones, and then swept some half circles to create eh bone structures themselves. in order to do this, I learned that curve point planes can crate a plane perpendicular to a line.
