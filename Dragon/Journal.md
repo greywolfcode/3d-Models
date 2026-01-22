@@ -1,5 +1,11 @@
 # Journal
 
+# 1/22/26 - 30
+
+I spent some more time trying to shape the feet. I went with three toes in the front and a smaller tow in the back, and used the same claw trick with lofts as I did for the claws on the wings. I think that the feet look much better, but am concerned about printability. I spent some time trying to bridge the front and back toes with a piece to help it be printed, but so far I have had no luck getting them bridged. I have a number of surfaces existing, but attaching them all into one piece is difficult as there are problems with thickening the surfaces as the fill tool created some really weird shapes to bridge the gaps. Also, I am pretty sure it doesn't count for time, but I spent about 5 minute creating an assembly so I can pose my models to upload here, and I think it looks much better than uploading a .3mf of the part studio.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/new_feet.png" width=200>
+
 # 1/21/26 - 25
 
 I started adding the legs. I am noticing that I am getting much faster at creating ball joints (I just hope they work). I made the legs a two part leg including the foot, similar to a human leg. I was having trouble picking what the right leg length was, I still am not sure they are the right length compared to the wings. The wings are the focus, but the legs still need to not be tiny. I also started trying to figure out the right foot shape. I am mostly used to 𝐿𝐸𝐺𝑂® dragons but they look blocky on the more detailed and rounded dragon I have, so I might try to sculpt a 3-toed foot later.
