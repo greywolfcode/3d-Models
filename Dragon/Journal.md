@@ -1,5 +1,11 @@
 # Journal
 
+# 1/23/26 - 44
+
+I finally finished the feet... for now. I finally managed to fir a piece between the toes so the feet has a proper flat bottom to print on. I spent a lot of time trying different combinations of extrudes and thickens to get my piece to fit the shape of the foot cleanly. I would explain more, but if I am being honest, this was mostly trial and error. I really wasn't sure the best way to do this, so I just tried fills, lofts, thickens, extrudes, and anything else I could think of to fix the big gap in the foot.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/better_feet.png" width=200>
+
 # 1/22/26 - 30
 
 I spent some more time trying to shape the feet. I went with three toes in the front and a smaller tow in the back, and used the same claw trick with lofts as I did for the claws on the wings. I think that the feet look much better, but am concerned about printability. I spent some time trying to bridge the front and back toes with a piece to help it be printed, but so far I have had no luck getting them bridged. I have a number of surfaces existing, but attaching them all into one piece is difficult as there are problems with thickening the surfaces as the fill tool created some really weird shapes to bridge the gaps. Also, I am pretty sure it doesn't count for time, but I spent about 5 minute creating an assembly so I can pose my models to upload here, and I think it looks much better than uploading a .3mf of the part studio.
