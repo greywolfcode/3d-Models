@@ -1,5 +1,11 @@
 # Journal
 
+## 1/21/26 - 23
+
+I started on the docks for the tour boat on the Canadian side of the falls. I once again used google maps as reference, and sketched out approximately how the infrastructure for the docks is set up. I didn't add any of the buildings yet, however. I focused on the boat instead. I sketched out the shape of the boat using the "street view" images on google maps to see the sides better. I may actually have to make this bigger if I shrink the model down, but for now the scale is pretty good. I had problems with the model being too big, so I couldn't detail the ship. i had to use a section view to see underneath.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/boat.png" width=200>
+
 ## 1/21/26 - 31
 
 I have finished the outline for the rest f the falls. There are more landscaping details to do, but overall the basic terrain is done. I connected the smaller falls to the American falls, and extended the river by the Canadian falls, extended the river and high ground, and adjusted some of the island shapes. I am planning to stop the model around where the boat tour docks are so I can include the boats in the model. Also, the model now fits into a rectangle.
