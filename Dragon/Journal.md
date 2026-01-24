@@ -1,5 +1,11 @@
 # Journal
 
+# 1/24/26 - 30
+
+I started working on the Dragon's head. I know that organic shapes are hard with cad, but I am struggling a lot with this. The rubber ducky was so much easier compared to a dragon. I attempted to sketch out the basic shape of a dragon with its mouth open, but while I got it to be fairly rounded, it still looks awkward and strange. I think I possibly need it to be linger and flatter, but I accidentally made it too big originally so it got smaller and taller. I think it looks a little bit more like a pterodactyl than a dragon, especially without the tail.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/head1.png" width=200>
+
 # 1/23/26 - 44
 
 I finally finished the feet... for now. I finally managed to fir a piece between the toes so the feet has a proper flat bottom to print on. I spent a lot of time trying different combinations of extrudes and thickens to get my piece to fit the shape of the foot cleanly. I would explain more, but if I am being honest, this was mostly trial and error. I really wasn't sure the best way to do this, so I just tried fills, lofts, thickens, extrudes, and anything else I could think of to fix the big gap in the foot.
