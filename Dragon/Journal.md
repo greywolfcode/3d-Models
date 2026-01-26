@@ -1,5 +1,11 @@
 # Journal
 
+# 1/26/26 - 32
+
+The dragon now has a tail! This really helps with the dragon look; it no longer looks like a pterodactyl. The tail is made up of four segments, each a bit different. tithe first is the widest, the second is angled smaller, the third is straight continuing the angled piece, and the final section is the tip of the tail, which has a trident of point on it. Each tail segment also has a spike on the top, and I added some spikes to the neck piece. The reason I worked on this before fixing problem areas such as the head or legs is so I can get a clearer picture of the entire model to fit other parts around. I haven't worked on parts requiring ball  joints in a while, and so made a number of measurement mistakes, and had to look at other ball joints to check how I did them. Before submitting, I did some untracked colouring of the dragon with a red and grey colour scheme. A side not is that all boney parts such as the bones under the wings or spines on neck are grey although the main part is red. Also, my assembly is at an angle so it looks  like the dragon is turning.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/tail.png" width=200>
+
 # 1/24/26 - 30
 
 I started working on the Dragon's head. I know that organic shapes are hard with cad, but I am struggling a lot with this. The rubber ducky was so much easier compared to a dragon. I attempted to sketch out the basic shape of a dragon with its mouth open, but while I got it to be fairly rounded, it still looks awkward and strange. I think I possibly need it to be linger and flatter, but I accidentally made it too big originally so it got smaller and taller. I think it looks a little bit more like a pterodactyl than a dragon, especially without the tail.
