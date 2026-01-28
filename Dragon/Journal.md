@@ -1,5 +1,11 @@
 # Journal
 
+# 1/28/26 - 33
+
+The head has been updated. it now is a much improved flatter design that does not look like a pterodactyl. I also moved the attachment point so that it attaches to the body at the top of the head, not the mouth, which is a lot more realistic (as realistic as a dragon can be). The mouth is closed now; I felt it wasn't important enough to want to spend the time on making it open, and it will print better with it closed. Additional, I added some points for horns to be attached in the future with some tubes lining the top edges of the head.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/head2.png" width=200>
+
 # 1/26/26 - 32
 
 The dragon now has a tail! This really helps with the dragon look; it no longer looks like a pterodactyl. The tail is made up of four segments, each a bit different. tithe first is the widest, the second is angled smaller, the third is straight continuing the angled piece, and the final section is the tip of the tail, which has a trident of point on it. Each tail segment also has a spike on the top, and I added some spikes to the neck piece. The reason I worked on this before fixing problem areas such as the head or legs is so I can get a clearer picture of the entire model to fit other parts around. I haven't worked on parts requiring ball  joints in a while, and so made a number of measurement mistakes, and had to look at other ball joints to check how I did them. Before submitting, I did some untracked colouring of the dragon with a red and grey colour scheme. A side not is that all boney parts such as the bones under the wings or spines on neck are grey although the main part is red. Also, my assembly is at an angle so it looks  like the dragon is turning.

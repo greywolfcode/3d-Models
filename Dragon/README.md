@@ -2,7 +2,7 @@
 
 Flying, fire-breathing lizard.
 
-<img style="display: block; margin: auto;" alt="photo" src="images/tail.png" width=200>
+<img style="display: block; margin: auto;" alt="photo" src="images/head2.png" width=200>
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
