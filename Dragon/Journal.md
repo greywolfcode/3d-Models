@@ -2,6 +2,12 @@
 
 # 1/28/26 - 33
 
+The head is done for the time being. To start with, I added the horns. They are at a pretty shallow angle, but I tried steeper ones and they just didn't look good with the rest of the head. I did try slicing the head, and it generated no supports for the horns although I had supports generated. I then worked on the eyes. To make the eye sockets not be at 90 degrees, I tested a few different chamfer amounts, eventually settling on a 1mm and 0.4mm chamfer. Both of these show up in the slice, and it looks quite good. The final and most difficult change I hade was to add a horn to the top of the head. I wanted it to have a bit of a sloped shape and not be just straight out, so I tried carving out a block with extrudes. I messed with it quite a bit, trying different extrude, chamfer, and fillet combinations, and eventually settled on something I am okay with. It isn't perfect, and if I have time I may come back to it for a bit more shaping.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/eyes.png" width=200>
+
+# 1/28/26 - 33
+
 The head has been updated. it now is a much improved flatter design that does not look like a pterodactyl. I also moved the attachment point so that it attaches to the body at the top of the head, not the mouth, which is a lot more realistic (as realistic as a dragon can be). The mouth is closed now; I felt it wasn't important enough to want to spend the time on making it open, and it will print better with it closed. Additional, I added some points for horns to be attached in the future with some tubes lining the top edges of the head.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/head2.png" width=200>
