@@ -1,5 +1,11 @@
 # Journal
 
+## 1/29/26 - 33
+
+This session consisted of two major changes. First I smoothed out the main body, using an extrude to taper it towards the head and tail. I then filleted the edges to give it a properly rounded look, instead of the blocky one it previously had. I also flattened the hump on the top as the flattening at the back looked a bit unnatural. The second major change was I started on the stand. It is connected to the dragon by a ball joint on the dragon's underbelly, with a pole attaching to a ball joint on the base. The base is just a large circle, but I added a few rocks around the outside to give it texture. When working on the body I thought about adding spikes to the top, but it will already need supports and I want it to be printed upside own to help the ball joint come out, so I decided against them.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/stand.png" width=200>
+
 ## 1/28/26 - 33
 
 The head is done for the time being. To start with, I added the horns. They are at a pretty shallow angle, but I tried steeper ones and they just didn't look good with the rest of the head. I did try slicing the head, and it generated no supports for the horns although I had supports generated. I then worked on the eyes. To make the eye sockets not be at 90 degrees, I tested a few different chamfer amounts, eventually settling on a 1mm and 0.4mm chamfer. Both of these show up in the slice, and it looks quite good. The final and most difficult change I hade was to add a horn to the top of the head. I wanted it to have a bit of a sloped shape and not be just straight out, so I tried carving out a block with extrudes. I messed with it quite a bit, trying different extrude, chamfer, and fillet combinations, and eventually settled on something I am okay with. It isn't perfect, and if I have time I may come back to it for a bit more shaping.
