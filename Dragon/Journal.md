@@ -1,5 +1,11 @@
 # Journal
 
+## 1/30/26 - 35
+
+The base now has a full ring of rocks. Well, except for the front, which is left open to bring more attention to the dragon. The rocks are in three different sizes to create a cave-like feel. There are 5mm high, 3mm high, and 2 mm high rocks, which I made by sketching random polygons on the surface of the bae, then placing points on a plane at the rock height, and lofting the shape to the corresponding point. The only exceptions are that a few of the 5mm rocks have flat tops, which used offset versions of the polygon for the top loft element. There are a few points where there are artifacts from the loft only selecting parts of the sketch fully on the base (some rocks overlapped with existing rocks, but the overlapping piece was not grabbed), but that is fine as the attention should be on the dragon anyways. All the rocks are printable as well, no too-small-to-print details.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/rocks.png" width=200>
+
 ## 1/29/26 - 33
 
 This session consisted of two major changes. First I smoothed out the main body, using an extrude to taper it towards the head and tail. I then filleted the edges to give it a properly rounded look, instead of the blocky one it previously had. I also flattened the hump on the top as the flattening at the back looked a bit unnatural. The second major change was I started on the stand. It is connected to the dragon by a ball joint on the dragon's underbelly, with a pole attaching to a ball joint on the base. The base is just a large circle, but I added a few rocks around the outside to give it texture. When working on the body I thought about adding spikes to the top, but it will already need supports and I want it to be printed upside own to help the ball joint come out, so I decided against them.
