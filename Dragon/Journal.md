@@ -1,5 +1,11 @@
 # Journal
 
+## 1/30/26 - 28
+
+This session is a bit scattered, as it contains all the finishing touches. Firstly, I finished the legs, and shaped them to be a bit rounder. I also added spikes to them to match the tail and neck. I then added fillets to the tail and neck so that they match the legs, and the roundedness makes them look better. The legs, tail, and neck only have fillets on the top so that they don't require supports. The final adjustment was that I added a chamfer to the base, as I think it makes it look cleaner. I had to move a bunch of the rocks so thy didn't sit over the side. With those changes this project should be done; A number of parts do require supports, which is unfortunate. Removing them would involve removing the curved pieces of the dragon, which would ruin the look. I have for a long time wanted to make a poseable model; I really hope that this one works.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/final1.png" width=200>
+
 ## 1/30/26 - 35
 
 The base now has a full ring of rocks. Well, except for the front, which is left open to bring more attention to the dragon. The rocks are in three different sizes to create a cave-like feel. There are 5mm high, 3mm high, and 2 mm high rocks, which I made by sketching random polygons on the surface of the bae, then placing points on a plane at the rock height, and lofting the shape to the corresponding point. The only exceptions are that a few of the 5mm rocks have flat tops, which used offset versions of the polygon for the top loft element. There are a few points where there are artifacts from the loft only selecting parts of the sketch fully on the base (some rocks overlapped with existing rocks, but the overlapping piece was not grabbed), but that is fine as the attention should be on the dragon anyways. All the rocks are printable as well, no too-small-to-print details.
