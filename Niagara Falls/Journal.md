@@ -1,5 +1,12 @@
 # Journal
 
+## 2/4/26 - 20
+
+I realised that I had accidentally made the model over a meter long. Maybe my relaxed just-sketch-it strategy was a bad idea. After some trial and error, I ended up shrinking the model to 10% of the original size (this is kind of hard to see one the screenshot and 3d model due to zooming). I was surprised to see that the details in the model still mostly came out. I had to extrude the higher sections up 0.1mm to make them printable, but mostly everything came out. The only thing that was lost was most of the boat; the shape still shows up, but some of the poles and details do not. I then fixed up the dock section, as it broke a bit, and added the tent like structure you head to before boarding the boat.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/shrunk.png" width=200>
+
+
 ## 1/21/26 - 23
 
 I started on the docks for the tour boat on the Canadian side of the falls. I once again used google maps as reference, and sketched out approximately how the infrastructure for the docks is set up. I didn't add any of the buildings yet, however. I focused on the boat instead. I sketched out the shape of the boat using the "street view" images on google maps to see the sides better. I may actually have to make this bigger if I shrink the model down, but for now the scale is pretty good. I had problems with the model being too big, so I couldn't detail the ship. i had to use a section view to see underneath.
