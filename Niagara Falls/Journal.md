@@ -1,11 +1,16 @@
 # Journal
 
+## 2/5/26 - 35
+
+I added more to the plaza by the docking station. I may have made the tent like structure a bit too large, but as that is the area where you get ready to board the boat, I think hat that is fine; it is an important part of the process. After adding more tot he plaza, I shaped the hill side behind it using a sweep. It has a road on the top that leads most of the way to the falls. There is a path from the top down to the docking plaza; I used a curved piece and a helix to sweep a ramp up to the top. I had to use trial and error to find the starting angle and number of revolutions that made the helix fragment the right size for the sweep. the ramp is supposed to be surrounded by the hill, so I used some planes to wrap pieces around it. To finish up, I started the road along the top and the ramp for the other road to get to the top. I have found that I have been very scattered in what I work on as I try to figure out how to translate google maps into a real model.
+
+<img style="display: block; margin: auto;" alt="photo" src="images/plaza.png" width=200>
+
 ## 2/4/26 - 20
 
 I realised that I had accidentally made the model over a meter long. Maybe my relaxed just-sketch-it strategy was a bad idea. After some trial and error, I ended up shrinking the model to 10% of the original size (this is kind of hard to see one the screenshot and 3d model due to zooming). I was surprised to see that the details in the model still mostly came out. I had to extrude the higher sections up 0.1mm to make them printable, but mostly everything came out. The only thing that was lost was most of the boat; the shape still shows up, but some of the poles and details do not. I then fixed up the dock section, as it broke a bit, and added the tent like structure you head to before boarding the boat.
 
 <img style="display: block; margin: auto;" alt="photo" src="images/shrunk.png" width=200>
-
 
 ## 1/21/26 - 23
 
